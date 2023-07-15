@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Simple Contacts</string>
+    <string name="app_launcher_name">Contacts</string>
+    <string name="address">Address</string>
+    <string name="inserting">Inserting…</string>
+    <string name="updating">Updating…</string>
+    <string name="phone_storage">Phone storage</string>
+    <string name="phone_storage_hidden">Phone storage (not visible by other apps)</string>
+
+    <string name="new_contact">New contact</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="select_contact">Select contact</string>
+    <string name="select_contacts">Select contacts</string>
+    <string name="first_name">First name</string>
+    <string name="middle_name">Middle name</string>
+    <string name="surname">Surname</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Take photo</string>
+    <string name="choose_photo">Choose photo</string>
+    <string name="remove_photo">Remove photo</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Start name with surname</string>
+    <string name="show_phone_numbers">Show phone numbers on the main screen</string>
+    <string name="show_contact_thumbnails">Show contact thumbnails</string>
+    <string name="on_contact_click">On contact click</string>
+    <string name="call_contact">Call contact</string>
+    <string name="view_contact">View contact details</string>
+
+    <!-- Emails -->
+    <string name="email">Email</string>
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="other">Other</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Number</string>
+    <string name="mobile">Mobile</string>
+    <string name="main_number">Main</string>
+    <string name="work_fax">Work Fax</string>
+    <string name="home_fax">Home Fax</string>
+    <string name="pager">Pager</string>
+    <string name="no_phone_number_found">No phone number has been found</string>
+
+    <!-- Events -->
+    <string name="birthday">Birthday</string>
+    <string name="anniversary">Anniversary</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Seems like you haven\'t added any favorite contacts yet.</string>
+    <string name="add_favorites">Add favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Search contacts</string>
+    <string name="search_favorites">Search favorites</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Import contacts</string>
+    <string name="export_contacts">Export contacts</string>
+    <string name="import_contacts_from_vcf">Import contacts from a .vcf file</string>
+    <string name="export_contacts_to_vcf">Export contacts to a .vcf file</string>
+    <string name="target_contact_source">Target contact source</string>
+    <string name="include_contact_sources">Include contact sources</string>
+    <string name="filename_without_vcf">Filename (without .vcf)</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A contacts app for managing your contacts without ads.</string>
+    <string name="app_long_description">
+        A simple app for creating or managing your contacts from any source. The contacts can be stored on your device only, but also synchronized via Google, or other accounts. You can display your favorite contacts on a separate list.
+
+        You can use it for managing user emails and events too. It has the ability to sort/filter by multiple parameters, optionally display surname as the first name.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

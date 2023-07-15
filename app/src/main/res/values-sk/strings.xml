@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Jednoduché kontakty</string>
+    <string name="app_launcher_name">Kontakty</string>
+    <string name="address">Adresa</string>
+    <string name="inserting">Vytvára sa…</string>
+    <string name="updating">Upravuje sa…</string>
+    <string name="phone_storage">Úložisko mobilu</string>
+    <string name="phone_storage_hidden">Úložisko mobilu (neviditeľné pre ostatné apky)</string>
+
+    <string name="new_contact">Nový kontakt</string>
+    <string name="edit_contact">Upraviť kontakt</string>
+    <string name="select_contact">Zvoľte kontakt</string>
+    <string name="select_contacts">Zvoľte kontakty</string>
+    <string name="first_name">Krstné meno</string>
+    <string name="middle_name">Stredné meno</string>
+    <string name="surname">Priezvisko</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Vytvoriť foto</string>
+    <string name="choose_photo">Zvoliť foto</string>
+    <string name="remove_photo">Odstrániť foto</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Začať meno priezviskom</string>
+    <string name="show_phone_numbers">Zobraziť telefónne čísla na hlavnej obrazovke</string>
+    <string name="show_contact_thumbnails">Zobraziť obrázky kontaktov</string>
+    <string name="on_contact_click">Po kliknutí na kontakt</string>
+    <string name="call_contact">Zavolať kontakt</string>
+    <string name="view_contact">Zobraziť údaje kontaktu</string>
+
+    <!-- Emails -->
+    <string name="email">Email</string>
+    <string name="home">Domov</string>
+    <string name="work">Práca</string>
+    <string name="other">Iné</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Číslo</string>
+    <string name="mobile">Mobil</string>
+    <string name="main_number">Hlavné</string>
+    <string name="work_fax">Pracovný fax</string>
+    <string name="home_fax">Domáci fax</string>
+    <string name="pager">Pager</string>
+    <string name="no_phone_number_found">Nenašlo sa žiadne telefónne číslo</string>
+
+    <!-- Events -->
+    <string name="birthday">Narodeniny</string>
+    <string name="anniversary">Výročie</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Zdá sa, že ste ešte nepridali žiadne obľúbené kontakty.</string>
+    <string name="add_favorites">Pridať obľúbené</string>
+    <string name="add_to_favorites">Pridať medzi obľúbené</string>
+    <string name="remove_from_favorites">Odstrániť z obľúbených</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Hľadať v kontaktoch</string>
+    <string name="search_favorites">Hľadať medzi obľúbenými</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Importovať kontakty</string>
+    <string name="export_contacts">Exportovať kontakty</string>
+    <string name="import_contacts_from_vcf">Importovať kontakty z .vcf súboru</string>
+    <string name="export_contacts_to_vcf">Exportovať kontakty do .vcf súboru</string>
+    <string name="target_contact_source">Cieľový zdroj kontaktov</string>
+    <string name="include_contact_sources">Zahrnúť zdroje kontaktov</string>
+    <string name="filename_without_vcf">Názov súboru (bez .vcf)</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Aplikácia pre správu vašich kontaktov bez reklám.</string>
+    <string name="app_long_description">
+        Jednoduchá aplikácia na vytváranie, alebo správu vašich kontaktov z rôznych zdrojov. Môžu byť uložené buď iba vo vašom zariadení, alebo ich môžete aj synchronizovať cez Google, alebo iný účet. Vaše obľúbené položky viete zobraziť vo vlastnom zozname.
+
+        Viete ju používať aj na správu emailov a udalostí kontaktov. Ponúka možnosť zoradenia/filtrovania pomocou rôznych parametrov, voliteľné je zobrazovanie priezviska ako prvého mena.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

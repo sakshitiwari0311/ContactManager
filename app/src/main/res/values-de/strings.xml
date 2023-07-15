@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Schlichte Kontakte</string>
+    <string name="app_launcher_name">Kontakte</string>
+    <string name="address">Adresse</string>
+    <string name="inserting">Einfügen…</string>
+    <string name="updating">Aktualisiere…</string>
+    <string name="phone_storage">Gerätespeicher</string>
+    <string name="phone_storage_hidden">Gerätespeicher (nicht sichtbar für andere Apps)</string>
+
+    <string name="new_contact">Neuer Kontakt</string>
+    <string name="edit_contact">Kontakt bearbeiten</string>
+    <string name="select_contact">Kontakt auswählen</string>
+    <string name="select_contacts">Kontakte auswählen</string>
+    <string name="first_name">Vorname</string>
+    <string name="middle_name">Zweiter Vorname</string>
+    <string name="surname">Familienname</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Foto machen</string>
+    <string name="choose_photo">Foto auswählen</string>
+    <string name="remove_photo">Foto entfernen</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Namen mit Nachnamen beginnen</string>
+    <string name="show_phone_numbers">Zeige Telefonnummern im Hauptmenü</string>
+    <string name="show_contact_thumbnails">Zeige Vorschaubilder für Kontakte</string>
+    <string name="on_contact_click">Beim Klicken auf den Kontakt</string>
+    <string name="call_contact">Kontakt anrufen</string>
+    <string name="view_contact">Kontaktdetails ansehen</string>
+
+    <!-- Emails -->
+    <string name="email">Email</string>
+    <string name="home">Privat</string>
+    <string name="work">Arbeit</string>
+    <string name="other">Sonstiges</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Nummer</string>
+    <string name="mobile">Mobil</string>
+    <string name="main_number">Festnetz</string>
+    <string name="work_fax">Arbeit Fax</string>
+    <string name="home_fax">Privat Fax</string>
+    <string name="pager">Pager</string>
+    <string name="no_phone_number_found">Es wurde keine Telefonnummer gefunden</string>
+
+    <!-- Events -->
+    <string name="birthday">Geburtstag</string>
+    <string name="anniversary">Jahrestag</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Sieht so aus, als ob du keine Kontakte zu den Favoriten hinzugefügt hast.</string>
+    <string name="add_favorites">Favoriten hinzufügen</string>
+    <string name="add_to_favorites">Zu Favoriten hinzufügen</string>
+    <string name="remove_from_favorites">Aus Favoriten entfernen</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Kontakte durchsuchen</string>
+    <string name="search_favorites">Favoriten durchsuchen</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Kontakte importieren</string>
+    <string name="export_contacts">Kontakte exportieren</string>
+    <string name="import_contacts_from_vcf">Kontakte aus .vcf Datei importieren</string>
+    <string name="export_contacts_to_vcf">Kontakte in .vcf Datei exportieren</string>
+    <string name="target_contact_source">Zielkontaktquelle</string>
+    <string name="include_contact_sources">Kontaktquellen einschließen</string>
+    <string name="filename_without_vcf">Dateiname (ohne .vcf)</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Eine App zum Verwalten von Kontakten, ganz ohne Werbung.</string>
+    <string name="app_long_description">
+        Eine schlichte App um Kontakte aus allen Quellen zu verwalten und neue zu erstellen. Die Kontakte können nur auf deinem Gerät gespeichert werden, aber auch über Google oder andere Dienste synchronisiert werden. Deine wichtigsten Kontakte werden in einer separaten Liste angezeigt.
+
+        Du kannst diese App auch dazu nutzen, um die Email-Adressen und Termine von Kontakten zu verwalten. Sie hat die Möglichkeit mithilfe von mehreren Parametern zu sortieren/filtern, optional auch den Familiennamen als Vornamen anzuzeigen.
+
+        Beinhaltet keine Werbung oder unnötige Berechtigungen. Sie ist komplett Open Source, alle verwendeten Farben sind anpassbar.
+
+        Diese App ist nur eine aus einer größeren Serie von schlichten Apps. Der Rest davon findet sich auf http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
